@@ -1,0 +1,23 @@
+{
+   "name": "vue-interpolate",
+   "version": "1.0.0",
+   "license": "UNLICENSED",
+   "main": "index.js",
+   "scripts": {
+      "start": "parcel ./src/index.html"
+   },
+   "devDependencies": {
+      "@vue/component-compiler-utils": "^2.1.0",
+      "eslint": "^5.1.0",
+      "parcel-bundler": "^1.9.7",
+      "pug": "^2.0.3",
+      "stylus": "^0.54.5",
+      "vue-template-compiler": "^2.5.16"
+   },
+   "dependencies": {
+      "@tweenjs/tween.js": "^17.2.0",
+      "vue": "^2.5.16",
+      "vue-hot-reload-api": "^2.3.0",
+      "vue-timers": "^1.7.3"
+   }
+}
